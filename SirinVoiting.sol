@@ -84,7 +84,7 @@ contract SirinVoting {
     //////////////////////////////////////////////////////////
 
     mapping(address => SRNVoter) public voters;
-    string public question = "is gilad gay?";
+    string public question = "Do you want to get free FINNEY device from SIRINLABS";
     uint8 public totalVoters;
 
     IERC20 public token;
@@ -158,5 +158,4 @@ contract SirinVoting {
             emit votedNoEvent(msg.sender);
         }
     }
-
 }
