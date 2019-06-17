@@ -1,16 +1,16 @@
 
-# SIRIN LABS' Voting Smart Contract
+# SIRIN LABS' Token Holders Yes\No Voting Contract
 
 Please see below Sirin Labs smart contracts' for the [Smart Contract ][sirinlabs].
 
 ![SirinLabs Logo](images/logo.png)
 
 ## Overview
-SIRIN LABS management want to all SRN stack holdera (~20,000) will part of the vision, for this we create a simple smart contract with Yes\No Question that upload to the [Ethereum][ethereum] network  the stake holders can be participate and help us to build together the near feature for sirin labs
+SIRIN LABS management want to all SRN stack holders (~20,000) will part of the vision, for this we create a simple smart contract with Yes\No Question that upload to the [Ethereum][ethereum] network  the stake holders can be participate and help us to build together the near feature for sirin labs
 
 All the data will be calculated by a simple script (Link TDB)
 
-## How To
+## How To Vote
 The voting procedure is very simple to the average [Ethereum][ethereum] user, by the following steps:
 *  Enter one of the Ethereum wallets ([Finney][sirinlabs], [myetherwallet][myetherwallet], etc)
 * Send 0 ether to the voting contract address (TBD) with data
